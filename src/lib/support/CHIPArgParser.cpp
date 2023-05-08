@@ -38,6 +38,7 @@
 #include <ctype.h>
 #include <errno.h>
 #include <getopt.h>
+#include <unistd.h>
 #include <inttypes.h>
 #include <lib/support/SafeInt.h>
 #include <limits.h>
